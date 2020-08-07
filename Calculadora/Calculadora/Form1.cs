@@ -16,5 +16,10 @@ namespace Calculadora
         {
             InitializeComponent();
         }
+
+        private void btnsuma_Click(object sender, EventArgs e)
+        {
+            Console.WriteLine("HOLA");
+        }
     }
 }

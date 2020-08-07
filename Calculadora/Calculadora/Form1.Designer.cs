@@ -84,6 +84,7 @@
             this.btnsuma.TabIndex = 4;
             this.btnsuma.Text = "SUMAR";
             this.btnsuma.UseVisualStyleBackColor = true;
+            this.btnsuma.Click += new System.EventHandler(this.btnsuma_Click);
             // 
             // button1
             // 
