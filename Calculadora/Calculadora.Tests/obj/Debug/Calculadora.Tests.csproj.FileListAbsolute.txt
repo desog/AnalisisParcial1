@@ -1,0 +1,15 @@
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\bin\Debug\Calculadora.Tests.dll
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\bin\Debug\Calculadora.Tests.pdb
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\obj\Debug\Calculadora.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\obj\Debug\Calculadora.Tests.dll
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\obj\Debug\Calculadora.Tests.pdb
