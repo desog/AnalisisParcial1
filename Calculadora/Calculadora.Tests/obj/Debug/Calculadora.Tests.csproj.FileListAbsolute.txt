@@ -10,6 +10,8 @@ C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Ca
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\obj\Debug\Calculadora.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\obj\Debug\Calculadora.Tests.dll
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\obj\Debug\Calculadora.Tests.pdb
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\obj\Debug\Calculadora.Tests.csprojAssemblyReference.cache
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\obj\Debug\Calculadora.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora.Tests\obj\Debug\Calculadora.Tests.csproj.CopyComplete
