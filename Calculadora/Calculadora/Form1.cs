@@ -19,7 +19,7 @@ namespace Calculadora
 
         private void btnsuma_Click(object sender, EventArgs e)
         {
-            Console.WriteLine("ADIOS MUNDO");
+            Console.WriteLine("ADIOS MUN")
         }
     }
 }
