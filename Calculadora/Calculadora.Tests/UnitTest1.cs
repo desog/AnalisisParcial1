@@ -9,7 +9,8 @@ namespace Calculadora.Tests
         [TestMethod]
         public void TestMethod1()
         {
-            String a = "hola";
+            Assert.AreEqual("ADIOS MUN", "ADIOS MUN");
         }
+
     }
 }
