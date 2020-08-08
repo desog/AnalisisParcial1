@@ -6,5 +6,4 @@ C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Ca
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
-C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
-C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
