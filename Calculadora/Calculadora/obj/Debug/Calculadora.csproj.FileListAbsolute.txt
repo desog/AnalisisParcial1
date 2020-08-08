@@ -1,14 +1,3 @@
-C:\Users\ferna\Desktop\AYD2\Clase\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
-C:\Users\ferna\Desktop\AYD2\Clase\Calculadora\Calculadora\bin\Debug\Calculadora.exe
-C:\Users\ferna\Desktop\AYD2\Clase\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
-C:\Users\ferna\Desktop\AYD2\Clase\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
-C:\Users\ferna\Desktop\AYD2\Clase\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
-C:\Users\ferna\Desktop\AYD2\Clase\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
-C:\Users\ferna\Desktop\AYD2\Clase\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
-C:\Users\ferna\Desktop\AYD2\Clase\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
-C:\Users\ferna\Desktop\AYD2\Clase\Calculadora\Calculadora\obj\Debug\Calculadora.exe
-C:\Users\ferna\Desktop\AYD2\Clase\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
-<<<<<<< HEAD
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora\bin\Debug\Calculadora.exe
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
@@ -18,14 +7,3 @@ C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Ca
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
-=======
-C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
-C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
-C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
-C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
-C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.exe
-C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
->>>>>>> c431d6ee4c15a9e7bdbebe97dbbd5912893b343e
-C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
-C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\bin\Debug\Calculadora.exe
-C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
