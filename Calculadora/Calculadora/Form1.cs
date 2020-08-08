@@ -19,7 +19,11 @@ namespace Calculadora
 
         private void btnsuma_Click(object sender, EventArgs e)
         {
-            Console.WriteLine("HOLA");
+           //Console.WriteLine("ADIOS MUN");
+            int a = 10;
+            b = 100;
+            a = "Hola";
+
         }
     }
 }
