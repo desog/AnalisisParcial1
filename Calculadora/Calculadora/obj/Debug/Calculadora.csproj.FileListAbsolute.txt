@@ -8,3 +8,9 @@ C:\Users\ferna\Desktop\AYD2\Clase\Calculadora\Calculadora\obj\Debug\Calculadora.
 C:\Users\ferna\Desktop\AYD2\Clase\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
 C:\Users\ferna\Desktop\AYD2\Clase\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\ferna\Desktop\AYD2\Clase\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
