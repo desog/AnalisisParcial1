@@ -26,3 +26,6 @@ C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj
 C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
 >>>>>>> c431d6ee4c15a9e7bdbebe97dbbd5912893b343e
+C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\bin\Debug\Calculadora.pdb

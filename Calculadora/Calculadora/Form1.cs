@@ -19,8 +19,8 @@ namespace Calculadora
 
         private void btnsuma_Click(object sender, EventArgs e)
         {
-            //Console.WriteLine("ADIOS MUN");
-            ErrorBlinkStyle; 
+            Console.WriteLine("ADIOS MUN");
+        
         }
     }
 }
