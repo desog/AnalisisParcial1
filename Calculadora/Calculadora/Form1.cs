@@ -20,7 +20,7 @@ namespace Calculadora
         private void btnsuma_Click(object sender, EventArgs e)
         {
             string a;
-            a = 10;
+            a = "hola";
             Console.WriteLine("ADIOS MUN");
         
         }
