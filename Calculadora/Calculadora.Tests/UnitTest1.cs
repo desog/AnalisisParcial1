@@ -12,5 +12,10 @@ namespace Calculadora.Tests
             Assert.AreEqual("ADIOS MUN", "ADIOS MUN");
         }
 
+        [TestMethod]
+        public void TestMethod2()
+        {
+            Assert.AreEqual("ADIOS MUN", "ADIOS MUN");
+        }
     }
 }
