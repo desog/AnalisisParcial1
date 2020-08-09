@@ -30,7 +30,7 @@ namespace Calculadora
         {
 
 
-            return "ADIOS MUN";
+            return "ADIOS MUNO";
         }
     }
 }
