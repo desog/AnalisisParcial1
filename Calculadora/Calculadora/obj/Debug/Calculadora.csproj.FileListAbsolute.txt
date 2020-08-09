@@ -8,3 +8,13 @@ C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Ca
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

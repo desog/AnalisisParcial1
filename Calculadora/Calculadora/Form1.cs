@@ -36,5 +36,10 @@ namespace Calculadora
             Console.WriteLine(c);
             return "ADIOS MUN";
         }
+
+        public static String PruebaSuma()
+        {
+            return "HOLA";
+        }
     }
 }
