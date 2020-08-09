@@ -8,3 +8,14 @@ C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Ca
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora\bin\Debug\Calculadora.xml
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\AnalisisParcial1\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\ferna\Desktop\AnalisisParcial1\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+C:\Users\ferna\Desktop\AnalisisParcial1\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\ferna\Desktop\AnalisisParcial1\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\ferna\Desktop\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\ferna\Desktop\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\ferna\Desktop\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\ferna\Desktop\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\ferna\Desktop\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\ferna\Desktop\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
