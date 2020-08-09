@@ -20,6 +20,13 @@ namespace hellotest
         }
 
 
+        [TestMethod]
+        public void TestMethod3()
+        {
+            Assert.AreEqual("MUNDO", Calculadora.Form1.PruebaResta());
+        }
+
+
 
     }
 }

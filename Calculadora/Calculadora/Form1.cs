@@ -41,5 +41,10 @@ namespace Calculadora
         {
             return "HOLA";
         }
+
+        public static String PruebaResta()
+        {
+            return "MUNDO";
+        }
     }
 }
