@@ -33,3 +33,4 @@ C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj
 C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
 >>>>>>> c49b3a35628de8ae038f6fee81d5ca7e53c16c63
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
