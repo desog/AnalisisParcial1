@@ -24,5 +24,10 @@ namespace Calculadora
             Console.WriteLine("ADIOS MUN");
         
         }
+
+        public static String createMessage()
+        {
+            return "ADIOS MUN";
+        }
     }
 }
