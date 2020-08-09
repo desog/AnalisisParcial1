@@ -29,7 +29,10 @@ namespace Calculadora
         public static String createMessage()
         {
 
-
+            int a = 10;
+            int b = 10;
+            int c = a + b;
+            Console.WriteLine(c);
             return "ADIOS MUNO";
         }
     }
