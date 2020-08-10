@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -20,11 +21,17 @@ namespace Calculadora
 
         private void btnsuma_Click(object sender, EventArgs e)
         {
-            // prueba comentario
-            string a;
-            a = "hola";
-            Console.WriteLine("ADIOS MUN");
-        
+            NumberFormatInfo provider = new NumberFormatInfo();
+            provider.NumberDecimalSeparator = ".";
+            try
+            {
+                txtresultado.Text = Convert.ToString(Add(Convert.ToDouble(txtnum1.Text, provider), Convert.ToDouble(txtnum2.Text, provider)));
+            }
+            catch (Exception)
+            {
+
+                MessageBox.Show("Unicamente se aceptan numeros");
+            }
         }
 
         public static String createMessage()
@@ -46,5 +53,10 @@ namespace Calculadora
         {
             return "MUNDO";
         }
+
+        public static Double Add(Double a, Double b){
+            return a + b;
+        }
+
     }
 }

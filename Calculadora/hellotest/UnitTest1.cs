@@ -26,6 +26,14 @@ namespace hellotest
             Assert.AreEqual("MUNDO", Calculadora.Form1.PruebaResta());
         }
 
+        [TestMethod]
+        public void TestMethodAdd()
+        {
+            Double a, b;
+            a = 12.50;
+            b = 12.50;
+            Assert.AreEqual(25.0, Calculadora.Form1.Add(a, b));
+        }
 
 
     }
