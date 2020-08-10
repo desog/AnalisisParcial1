@@ -29,6 +29,7 @@ namespace hellotest
         [TestMethod]
         public void TestMethodAdd()
         {
+            //Prueba unitaria a la funcion Add
             Double a, b;
             a = 12.50;
             b = 12.50;
