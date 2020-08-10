@@ -58,5 +58,23 @@ namespace Calculadora
             return a + b;
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            NumberFormatInfo provider = new NumberFormatInfo();
+            provider.NumberDecimalSeparator = ".";
+            try
+            {
+                txtresultado.Text = Convert.ToString(Division(Convert.ToDouble(txtnum1.Text, provider), Convert.ToDouble(txtnum2.Text, provider)));
+            }
+            catch (Exception)
+            {
+
+                MessageBox.Show("Unicamente se aceptan numeros");
+            }
+        }
+        public static Double Division(Double a, Double b)
+        {
+            return a / b;
+        }
     }
 }

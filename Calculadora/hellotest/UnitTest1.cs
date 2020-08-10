@@ -35,6 +35,14 @@ namespace hellotest
             Assert.AreEqual(25.0, Calculadora.Form1.Add(a, b));
         }
 
+        [TestMethod]
+        public void TestMethodDivision()
+        {
+            Double a, b;
+            a = 12.50;
+            b = 12.50;
+            Assert.AreEqual(1.0, Calculadora.Form1.Division(a, b));
+        }
 
     }
 }
