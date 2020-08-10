@@ -94,5 +94,31 @@ namespace Calculadora
                 MessageBox.Show("Unicamente se aceptan numeros");
             }
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            double a = 0;
+            double b = 0;
+
+            try
+            {
+                a = Double.Parse(txtnum1.Text.ToString());
+                b = Double.Parse(txtnum2.Text.ToString());
+
+                txtresultado.Text = multiplicacion(a, b).ToString();
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Uno de los valores ingresados no es válido");
+            }
+
+
+            
+        }
+
+        public static double multiplicacion(double a, double b)
+        {
+            return a * b;
+        }
     }
 }

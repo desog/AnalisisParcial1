@@ -54,5 +54,14 @@ namespace hellotest
             Assert.AreEqual(1.0, Calculadora.Form1.Resta(a, b));
         }
 
+        [TestMethod]
+        public void TestMethodMulti()
+        {
+            Double a, b;
+            a = 5;
+            b = 10;
+            Assert.AreEqual(50, Calculadora.Form1.multiplicacion(a, b));
+        }
+
     }
 }
