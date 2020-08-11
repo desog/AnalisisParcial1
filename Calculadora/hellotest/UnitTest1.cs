@@ -60,7 +60,7 @@ namespace hellotest
             Double a, b;
             a = 5;
             b = 10;
-            Assert.AreEqual(50, Calculadora.Form1.multiplicacion(a, b));
+            Assert.AreEqual(2, Calculadora.Form1.multiplicacion(a, b));
         }
 
     }
