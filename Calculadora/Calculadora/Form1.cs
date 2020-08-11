@@ -132,7 +132,7 @@ namespace Calculadora
             catch (Exception)
             {
 
-                MessageBox.Show("Unicamente se aceptan numeros");
+                MessageBox.Show("Unicamente se aceptan numeros"); 
             }
         }
     }
