@@ -123,7 +123,17 @@ namespace Calculadora
 
         private void button1_Click(object sender, EventArgs e)
         {
+            NumberFormatInfo provider = new NumberFormatInfo();
+            provider.NumberDecimalSeparator = ".";
+            try
+            {
+                txtresultado.Text = Convert.ToString(Resta(Convert.ToDouble(txtnum1.Text, provider), Convert.ToDouble(txtnum2.Text, provider)));
+            }
+            catch (Exception)
+            {
 
+                MessageBox.Show("Unicamente se aceptan numeros");
+            }
         }
     }
 }
