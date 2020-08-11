@@ -15,7 +15,6 @@ C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\he
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\hellotest\obj\Debug\hellotest.dll
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\hellotest\obj\Debug\hellotest.pdb
 C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\hellotest\bin\Debug\Calculadora.xml
-C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\hellotest\obj\Debug\hellotest.csprojResolveAssemblyReference.cache
 C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\hellotest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\hellotest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\hellotest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -33,3 +32,7 @@ C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\hellotest\obj\D
 C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\hellotest\obj\Debug\hellotest.csproj.CopyComplete
 C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\hellotest\obj\Debug\hellotest.dll
 C:\Users\diego\Documents\Analisis 2\AnalisisParcial1\Calculadora\hellotest\obj\Debug\hellotest.pdb
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\hellotest\bin\Debug\Calculadora.exe.config
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\hellotest\obj\Debug\hellotest.csprojAssemblyReference.cache
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\hellotest\obj\Debug\hellotest.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Documents\repositorios\analisis\AnalisisParcial1\Calculadora\hellotest\obj\Debug\hellotest.csproj.CopyComplete

@@ -51,7 +51,7 @@ namespace hellotest
             Double a, b;
             a = 12.50;
             b = 10.50;
-            Assert.AreEqual(1.0, Calculadora.Form1.Resta(a, b));
+            Assert.AreEqual(2.00, Calculadora.Form1.Resta(a, b));
         }
 
         [TestMethod]
